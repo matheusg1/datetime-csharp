@@ -1,0 +1,16 @@
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\DateTimeCsharp\DateTimeCsharp\bin\Debug\net5.0\DateTimeCsharp.exe
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\DateTimeCsharp\DateTimeCsharp\bin\Debug\net5.0\DateTimeCsharp.deps.json
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\DateTimeCsharp\DateTimeCsharp\bin\Debug\net5.0\DateTimeCsharp.runtimeconfig.json
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\DateTimeCsharp\DateTimeCsharp\bin\Debug\net5.0\DateTimeCsharp.runtimeconfig.dev.json
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\DateTimeCsharp\DateTimeCsharp\bin\Debug\net5.0\DateTimeCsharp.dll
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\DateTimeCsharp\DateTimeCsharp\bin\Debug\net5.0\DateTimeCsharp.pdb
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\DateTimeCsharp\DateTimeCsharp\obj\Debug\net5.0\DateTimeCsharp.csproj.AssemblyReference.cache
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\DateTimeCsharp\DateTimeCsharp\obj\Debug\net5.0\DateTimeCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\DateTimeCsharp\DateTimeCsharp\obj\Debug\net5.0\DateTimeCsharp.AssemblyInfoInputs.cache
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\DateTimeCsharp\DateTimeCsharp\obj\Debug\net5.0\DateTimeCsharp.AssemblyInfo.cs
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\DateTimeCsharp\DateTimeCsharp\obj\Debug\net5.0\DateTimeCsharp.csproj.CoreCompileInputs.cache
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\DateTimeCsharp\DateTimeCsharp\obj\Debug\net5.0\DateTimeCsharp.dll
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\DateTimeCsharp\DateTimeCsharp\obj\Debug\net5.0\refint\DateTimeCsharp.dll
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\DateTimeCsharp\DateTimeCsharp\obj\Debug\net5.0\DateTimeCsharp.pdb
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\DateTimeCsharp\DateTimeCsharp\obj\Debug\net5.0\DateTimeCsharp.genruntimeconfig.cache
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\DateTimeCsharp\DateTimeCsharp\obj\Debug\net5.0\ref\DateTimeCsharp.dll
